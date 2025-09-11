@@ -14,6 +14,7 @@ https://github.com/davendiy/programming2023-course1/blob/main/materials%2FGithub
 
 <br>
 ---------------------------------------------------------------------------------------------------------------
+
 ## Встановлення Sagemath на локальну машину 
 
 Деталі можна знайти на [сайті](https://doc.sagemath.org/html/en/installation/).
